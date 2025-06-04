@@ -66,4 +66,4 @@ Top features included:
 ✅ Completed and evaluated. Ready for deployment or integration with real-time systems.
 
 ## Author
-Prakash Silwal— Data Scientist with 10+ years of experience in anomaly detection, machine learning, and financial analytics.
+Prakash Silwal— Data analyst 5 years of experience in anomaly detection, machine learning, and financial analytics.
